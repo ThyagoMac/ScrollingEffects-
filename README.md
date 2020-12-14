@@ -1,2 +1,2 @@
 # ScrollingEffects-
-Scrolling effects JS
+Scrolling effects using Jarallax.js
